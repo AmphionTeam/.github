@@ -2,9 +2,7 @@
 
 We build open-source models, datasets and benchmarks for speech, audio and music: neural codecs, spoken language models, voice agents, and the tools to evaluate them.
 
-<!-- TODO: add one sentence on who you are, e.g. affiliation and how this org relates to the Amphion toolkit. -->
-
-This organization hosts the research projects of the team behind the [Amphion](https://github.com/open-mmlab/Amphion) toolkit. Most projects come with a paper, released checkpoints or data, and a demo page.
+The team was founded by [Zhizheng Wu](https://drwuz.com/). This organization hosts the research projects of the team behind the [Amphion](https://github.com/open-mmlab/Amphion) toolkit. Most projects come with a paper, released checkpoints or data, and a demo page.
 
 [Amphion toolkit](https://github.com/open-mmlab/Amphion) · [Hugging Face](https://huggingface.co/amphion) · [X / Twitter](https://x.com/realamphion)
 
